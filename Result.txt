@@ -1,0 +1,24 @@
+Waiting for results...Done!
+
+Results:
+--------
+
+************************************************************************
+                          Test Result Summary                           
+************************************************************************
+
+Produces good results when running the network on full data            .
+The activation function is a sigmoid                                   .
+The backpropagation implementation is correct                          .
+The forward pass implementation is correct                             .
+The learning_rate is reasonable                                        .
+The number of epochs is reasonable                                     .
+The number of hidden nodes is reasonable                               .
+The number of output nodes is correct                                  .
+The run method is correct                                              .
+The update_weights implementation is correct                           .
+The weights are updated correctly on training                          .
+
+--------------------------------------------------------------------------------
+
+Congratulations!  It looks like your network passed all of our tests. 
